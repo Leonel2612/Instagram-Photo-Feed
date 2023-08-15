@@ -1,0 +1,59 @@
+
+body{
+    margin: 0;
+    background: darkgrey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    background: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+
+
+.box{
+    background: #fafafa;
+    width: 700px;
+    margin: auto; 
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border: 1px solid #edeeee;
+    border-radius: 5px;
+    
+}
+
+div.title{padding: 10px;
+}
+
+div.title h2 {
+    margin: 0;
+    font-size: 20px;
+    display: inline-block;
+}
+
+div.title p{
+    float: right;
+    margin: 0;
+    color:darkgray;
+    font-size: 15px;
+
+
+}
+
+img{
+   
+    width: 100%;
+
+}
+
+
+
+div.description{padding: 15px;
+    }
+
+
